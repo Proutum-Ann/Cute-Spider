@@ -153,3 +153,10 @@ html:hover .spider {
 html:hover {
     background: #d6b866;
 }
+
+.deweb {
+    height: 30%;
+    width: 50%;
+    margin-top: 20%;
+    margin-left: -15%;
+}
