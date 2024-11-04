@@ -1,5 +1,6 @@
 html {
-    background: #ff785a;
+    background: #551305;
+    transition: 1s ease-in-out;
 }
 
 html:hover .spider {
@@ -143,8 +144,12 @@ html:hover .spider {
 }
 
 .spiderweb2 {
-    background: #fff;
+    background: #f2ffcd;
     width: 2px;
     height: 400px;
     margin-left: 49px;
+}
+
+html:hover {
+    background: #d6b866;
 }
