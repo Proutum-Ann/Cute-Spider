@@ -1,6 +1,10 @@
 html {
     background: #551305;
     transition: 1s ease-in-out;
+    background-image: url(imgs/walltexture.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
 }
 
 html:hover .spider {
@@ -152,6 +156,10 @@ html:hover .spider {
 
 html:hover {
     background: #d6b866;
+    background-image: url(imgs/walltexture.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
 }
 
 .deweb {
