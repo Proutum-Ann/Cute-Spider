@@ -136,3 +136,15 @@ html:hover .spider {
         transform: translateY(-20px);
     }
 }
+
+/* Custom CSS */
+.spider.dos {
+    margin-left: 50%;
+}
+
+.spiderweb2 {
+    background: #fff;
+    width: 2px;
+    height: 400px;
+    margin-left: 49px;
+}
